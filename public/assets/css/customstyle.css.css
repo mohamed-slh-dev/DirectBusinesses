@@ -1,0 +1,54 @@
+.custom-profile-list li:before{
+	width: 0px;
+	content:none;
+}
+
+
+.custom-profile-list li {
+	border-left: 1px solid #daa1a1;
+	border-radius: 3px;
+}
+
+
+.custom-link {
+	color: #daa1a1;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+	color: white !important;
+}
+
+
+.fun-fact {
+	max-width:calc(24% - 10px);
+}
+
+
+.intro-stats li {
+	list-style: none;
+	text-align:center;
+	padding: 15px 20px !important;
+	border-top: 1px solid lightgrey !important;
+	border-bottom: 1px solid lightgrey !important;
+	border-radius: 3px;
+}
+
+.intro-stats strong {
+	color: #daa1a1 !important;
+}
+
+.intro-stats span {
+	font-size: 16px !important;
+	font-weight: bold !important;
+}
+
+
+
+.profile-pr-button {
+	background-color: black;
+	color: white !important;
+}
+
+.custom-connect-wrapper label {
+	color :white !important;
+}

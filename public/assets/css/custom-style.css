@@ -1,0 +1,61 @@
+#navigation ul li .remove-after-button::after {
+	content: none !important;
+}
+
+
+
+.font-15 {
+	font-size: 15px !important;
+}
+
+.font-15 span {
+	font-size: 15px !important;
+}
+
+
+.text-black {
+	color: black !important;
+}
+
+
+
+.dashboard-box-custom {
+	box-shadow: none;
+}
+
+
+
+.footer-mt-5 {
+	margin-top: 70px !important;
+}
+
+
+/*  */
+
+.mb-0-custom {
+	margin-bottom: 0px !important;
+}
+
+.mb-1-custom {
+	margin-bottom: 5px !important;
+}
+
+.mt-2-custom {
+	margin-top: 30px !important;
+}
+
+/*  */
+
+
+
+
+
+
+/* send quotation */
+
+.quotation-checkbox::after {
+	content: '|';
+	padding: 0px 5px;
+	color: blue;
+	font-size: 17px;
+}
